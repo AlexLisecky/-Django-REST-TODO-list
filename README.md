@@ -1,1 +1,1 @@
--Django-REST-TODO-list
+Django-REST TODO list
